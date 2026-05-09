@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/x-dockerize/.github/master/assets/logo.png" width="280" alt="x-dockerize" />
+<img src="https://raw.githubusercontent.com/x-dockerize/.github/master/assets/x-dockerize-logo.svg" width="280" alt="x-dockerize" />
 
 
 **Production-ready Docker setups.**
