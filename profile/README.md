@@ -2,7 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/x-dockerize/.github/master/assets/logo.png" width="280" alt="x-dockerize" />
 
-# x-dockerize
 
 **Production-ready Docker setups.**
 Shared base images and ready-to-deploy Compose templates for everything we self-host.
