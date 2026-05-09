@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/x-dockerize.png" width="120" alt="x-dockerize" />
-<!-- TODO: replace with assets/logo.svg when ready -->
+<img src="https://raw.githubusercontent.com/x-dockerize/.github/master/assets/logo.png" width="280" alt="x-dockerize" />
 
 # x-dockerize
 
